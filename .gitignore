@@ -1,6 +1,34 @@
+# Data files
+atl21_data/
+ssha_images/
+new_ssha_images/
 *.h5
+*.npz
+
+# Model files
+*.keras
+
+# Python
 __pycache__/
-*.pyc
-.DS_Store
-data/
+*.py[cod]
+*.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Outputs
+emissions/
 *.png
+*.jpg
+
+# Documents
+*.pptx
+*.pdf
+*.docx
+~
+
+# Mac
+.DS_Store
