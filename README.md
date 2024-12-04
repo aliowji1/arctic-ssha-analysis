@@ -143,5 +143,5 @@ This codebase is actively maintained and updated. Current focus areas include:
 - Implementation of additional validation metrics
 - Integration of new environmental variables
 
-For questions or contributions, please open an issue or contact the repository maintainers.
+
 
